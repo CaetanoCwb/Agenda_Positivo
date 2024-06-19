@@ -12,7 +12,7 @@ Importar arquivo.slq "bk-sisagendador.sql" pelo PHPMyAdmin e rodar através do s
 
 Usuário padrão:
 
-Login: adm 
+Login: adm //
 Senha: 123456
 
 Sistema desenvolvido por:
